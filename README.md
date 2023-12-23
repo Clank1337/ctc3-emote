@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Crack The Clue 3 Emote Plugin
+This plugin shows you what order to do the emotes in to get into the vault in the Varrock west bank.This is exceptionally useful for ironmen who use this money method early game to make gold. The emotes will only light up when standing next to the gates while in the basement.
